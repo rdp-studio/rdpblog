@@ -1,4 +1,4 @@
-# Cloudflare workers blog
+# RDP blog 's repo
 
 Cloudflare workers + Github 实现的动态博客系统，使用边缘计算，无需服务器
 
@@ -6,7 +6,6 @@ Workers 是 Cloudflare 提供的边缘计算服务，原本是收费的，现在
 
 用户可以使用 JavaScript 编写自己的程序，然后可以直接通过域名访问运行。
 
-演示博客地址：https://blog.16lab.io/
 
 ## 如何部署
 
@@ -22,11 +21,6 @@ Workers 是 Cloudflare 提供的边缘计算服务，原本是收费的，现在
 
 首先创建一个 Github 项目，名字随意，然后将这个项目 clone 到本地。
 
-```
-# 示例
-git clone https://github.com/kasuganosoras/cloudflare-worker-blog
-cd cloudflare-worker-blog/
-```
 
 进入项目文件夹，新建一个 posts 文件夹
 
@@ -110,11 +104,6 @@ alias wbs='php /usr/local/tools/wbs.php'
 - wbs u / wbs upload 上传已经写好的文章
 - wbs c / wbs config 重新配置 wbs
 
-## 评论系统
-
-workers-sakurafrp.js 默认使用了 Sakura Comments 评论系统，你可以在我的博客下方留言申请域名白名单，或者更换为其他的评论系统。
-
-文章地址：https://blog.16lab.io/2 （你还可以在 Issues 里提出，通过任意方式告诉我即可）
 
 ## 开源协议
 
