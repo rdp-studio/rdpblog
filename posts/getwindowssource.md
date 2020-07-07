@@ -1,5 +1,8 @@
 许可协议：
 
+----------
+
+下载链接在底部!
 
 ----------
 
@@ -111,7 +114,7 @@ License Version: 12 January 2006.
 你可以随意更改本项目的源代码，但是必须保留本协议且不得修改任何版权字段，违者必究。
 
 ----------
-若您同意本协议，可以点击[下载][1]立刻下载。
+#若您同意本协议，可以点击[下载][1]立刻下载。
 
   [1]: https://c-t.work/s/588bdf52986c4e
   [2]: http://www.microsoft.com/resources/sharedsource/Licensing/WindowsAcademic.mspx
