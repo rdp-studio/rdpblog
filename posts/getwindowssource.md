@@ -116,5 +116,5 @@ License Version: 12 January 2006.
 ----------
 #若您同意本协议，可以点击[下载][1]立刻下载。
 
-  [1]: https://c-t.work/s/588bdf52986c4e
+  [1]: https://c-t.work/s/91fc67039ab346
   [2]: http://www.microsoft.com/resources/sharedsource/Licensing/WindowsAcademic.mspx
