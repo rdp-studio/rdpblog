@@ -16,7 +16,7 @@ the software constitutes acceptance of this license.  Your license rights
 below are subject to the restrictions in the license, and are available
 to you only so long as you remain eligible due to your affiliation with
 an accredited educational institution. (For more details on eligibility
-see [链接已失效][2] )
+see [URL][2] )
 
 You may use and modify this software for any non-commercial purpose within
 your educational institution, including making a reasonable number of copies.
@@ -116,5 +116,5 @@ License Version: 12 January 2006.
 ----------
 #若您同意本协议，可以点击[下载][1]立刻下载。
 
-  [1]: https://c-t.work/s/91fc67039ab346
+  [1]: https://c-t.work/s/83d975857ef140
   [2]: http://www.microsoft.com/resources/sharedsource/Licensing/WindowsAcademic.mspx
